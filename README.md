@@ -1,6 +1,6 @@
 # Hi there, I'm dev0xgenius! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer. Well, who isn't? 😐 Here you will find a collection of my projects, contributions, and interests.
+Welcome to my GitHub profile! I'm a passionate developer. Well, who isn't? 😐. Here you will find a collection of my projects, contributions, and interests.
 
 ## 🚀 About Me
 
