@@ -11,7 +11,6 @@ Welcome to my GitHub profile! I'm a passionate developer. Well, who isn't? 😐.
 - 💬 Ask me about Javascript
 - 📫 How to reach me: dev0xgenius@gmail.com
 - 😄 Pronouns: Chad
-- ⚡ Fun fact: I'm black 🤯
 
 ## 🛠️ Languages and Tools
 
