@@ -1,4 +1,4 @@
-# Hi there, I'm Dev0xGenius! 👋
+# Dev0xGenius!
 
 🚀 **Full-Stack Developer** | 🔒 
 
