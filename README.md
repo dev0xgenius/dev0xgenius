@@ -16,11 +16,11 @@ I am passionate about building scalable applications, exploring the latest in te
 
 ## 🌟 Featured Projects
 
-### [Project 1: Portfolio Website](https://example-link.com)
-![Screenshot](images/portfolio.png)
-_A sleek and modern portfolio showcasing my skills, projects, and experience._
+### [Project 1: Interactive Comments Section](https://example-link.com)
+![Screenshot](download.png)
+_A sleek and modern comments section
 
-- **Technologies**: React, Tailwind CSS, Netlify
+- **Technologies**: React, Tailwind CSS, Vercel
 - **Features**: Responsive design, optimized performance, and animations
 
 ---
