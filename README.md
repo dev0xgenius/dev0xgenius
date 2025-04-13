@@ -25,7 +25,7 @@ _A sleek and modern comments section
 
 ---
 
-### [Project 2: Task Manager App](https://example-link.com)
+### [Project 2: Task Manager App](https://interactive-comments-section-opal.vercel.app/)
 ![Screenshot](images/task-manager.png)
 _A productivity application to manage your daily tasks and stay organized._
 
