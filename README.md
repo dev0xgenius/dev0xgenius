@@ -25,12 +25,12 @@ A sleek and modern comments section
 
 ---
 
-### [Project 2: E-Commerce Product Page](https://ecommerce-product-page.vercel.app/)
+### [Project 2: E-Commerce Product Page](https://ecommerce-product-page-drab-five.vercel.app/)
 ![Screenshot](download2.png)
-_A productivity application to manage your daily tasks and stay organized._
+Shopping Product Cart, basically? Just check it out
 
 - **Technologies**: React, React-Booststrap, Vercel
-- **Features**: interactive UI, Responsive Design
+- **Features**: Interactive UI, Responsive Design
 
 ---
 
