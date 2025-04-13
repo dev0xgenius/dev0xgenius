@@ -50,17 +50,8 @@ Todo: Update this description
 
 ---
 
-## 🎯 Fun Facts
-- 🌱 I’m currently learning Kubernetes and advanced machine learning techniques.
-- 🕹️ In my free time, I enjoy gaming and contributing to open-source projects.
-- 🌍 I love traveling and exploring different cultures.
-
----
-
 ## 📫 Let's Connect
-- [LinkedIn](https://linkedin.com/in/dev0xgenius)
-- [Twitter](https://twitter.com/dev0xgenius)
-- [Personal Website](https://dev0xgenius.com)
+- [Telegram](https://t.me/dev_0xg3nius)
 
 ---
 
