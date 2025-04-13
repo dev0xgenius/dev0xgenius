@@ -18,14 +18,14 @@ I am passionate about building scalable applications, exploring the latest in te
 
 ### [Project 1: Interactive Comments Section](https://interactive-comments-section-opal.vercel.app/)
 ![Screenshot](download.png)
-_A sleek and modern comments section
+A sleek and modern comments section
 
 - **Technologies**: React, Tailwind CSS, Vercel, Nodejs, Express, PostgreSQL
 - **Features**: Responsive design, Interactive UI, optimized performance, and animations, CRUD operations
 
 ---
 
-### [Project 2: E-Commerce Product Page](https://interactive-comments-section-opal.vercel.app/)
+### [Project 2: E-Commerce Product Page](https://ecommerce-product-page.vercel.app/)
 ![Screenshot](download2.png)
 _A productivity application to manage your daily tasks and stay organized._
 
@@ -34,12 +34,12 @@ _A productivity application to manage your daily tasks and stay organized._
 
 ---
 
-### [Project 3: E-Commerce Platform](https://example-link.com)
-![Screenshot](images/ecommerce.png)
-_A scalable e-commerce platform with a secure payment gateway and admin panel._
+### [Project 3: Basic Todo App with Drag and Drop Feature](https://dev0xgenius-todo-app.vercel.app/)
+![Screenshot](todoapp.png)
+Todo: Update this description
 
-- **Technologies**: Python, Django, SQLite
-- **Features**: Product listing, shopping cart, and order tracking
+- **Technologies**: React, Sass, DND(drap & drop kit)
+- **Features**: Manage Todos, Sort Todos, and Re-arrange too
 
 ---
 
