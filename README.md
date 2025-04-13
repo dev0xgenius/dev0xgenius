@@ -20,17 +20,17 @@ I am passionate about building scalable applications, exploring the latest in te
 ![Screenshot](download.png)
 _A sleek and modern comments section
 
-- **Technologies**: React, Tailwind CSS, Vercel
-- **Features**: Responsive design, optimized performance, and animations
+- **Technologies**: React, Tailwind CSS, Vercel, Nodejs, Express, PostgreSQL
+- **Features**: Responsive design, Interactive UI, optimized performance, and animations, CRUD operations
 
 ---
 
-### [Project 2: Ecommerce Product Page](https://interactive-comments-section-opal.vercel.app/)
+### [Project 2: E-Commerce Product Page](https://interactive-comments-section-opal.vercel.app/)
 ![Screenshot](download2.png)
 _A productivity application to manage your daily tasks and stay organized._
 
-- **Technologies**: Node.js, Express.js, MongoDB
-- **Features**: User authentication, CRUD operations, and interactive UI
+- **Technologies**: React, React-Booststrap, Vercel
+- **Features**: interactive UI, Responsive Design
 
 ---
 
