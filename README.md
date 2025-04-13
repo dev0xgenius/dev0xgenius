@@ -1,6 +1,6 @@
 # Dev0xGenius!
 
-🚀 **Full-Stack Developer** | 🔒 
+🚀 **Front-end Developer** | 🔒 
 
 I am passionate about building scalable applications, exploring the latest in technology, and solving complex problems. Welcome to my GitHub profile! 🌟
 
