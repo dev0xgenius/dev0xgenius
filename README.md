@@ -16,7 +16,7 @@ I am passionate about building scalable applications, exploring the latest in te
 
 ## 🌟 Featured Projects
 
-### [Project 1: Interactive Comments Section](https://example-link.com)
+### [Project 1: Interactive Comments Section](https://interactive-comments-section-opal.vercel.app/)
 ![Screenshot](download.png)
 _A sleek and modern comments section
 
@@ -25,8 +25,8 @@ _A sleek and modern comments section
 
 ---
 
-### [Project 2: Task Manager App](https://interactive-comments-section-opal.vercel.app/)
-![Screenshot](images/task-manager.png)
+### [Project 2: Ecommerce Product Page](https://interactive-comments-section-opal.vercel.app/)
+![Screenshot](download2.png)
 _A productivity application to manage your daily tasks and stay organized._
 
 - **Technologies**: Node.js, Express.js, MongoDB
