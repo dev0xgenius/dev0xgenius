@@ -18,7 +18,7 @@ I am passionate about building scalable applications, exploring the latest in te
 
 ### [Project 1: Interactive Comments Section](https://interactive-comments-section-opal.vercel.app/)
 ![Screenshot](download.png)
-A sleek and modern comments section
+A sleek and modern comment section
 
 - **Technologies**: React, Tailwind CSS, Vercel, Nodejs, Express
 - **Features**: Responsive design, Interactive UI, optimized performance, and animations, CRUD operations
@@ -42,6 +42,12 @@ Todo: Update this description
 - **Features**: Manage Todos, Sort Todos, and Re-arrange too
 
 ---
+
+### [Project 4: Multi Step Form](https://multi.vercel.app)
+![Screenshot](form.png)
+Multi Paged Form - Step by Step 
+
+- **Technologies**: ReactRouterv7, MUI for UI Components, Zod for Parsing Form Data, react-hook-form for handling form
 
 ## 📊 GitHub Stats
 
