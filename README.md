@@ -20,7 +20,7 @@ I am passionate about building scalable applications, exploring the latest in te
 ![Screenshot](download.png)
 A sleek and modern comments section
 
-- **Technologies**: React, Tailwind CSS, Vercel, Nodejs, Express, PostgreSQL
+- **Technologies**: React, Tailwind CSS, Vercel, Nodejs, Express
 - **Features**: Responsive design, Interactive UI, optimized performance, and animations, CRUD operations
 
 ---
