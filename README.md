@@ -35,7 +35,7 @@ Shopping Product Cart, basically? Just check it out
 ---
 
 ### [Project 3: Basic Todo App with Drag and Drop Feature](https://dev0xgenius-todo-app.vercel.app/)
-![Screenshot](todoapp.png)  
+![Screenshot](Screenshot%202025-06-28%20at%2010-53-56%20Frontend%20Mentor%20Todo%20app.png)  
 Todo: Update this description
 
 - **Technologies**: React, Sass, DND(drap & drop kit)
@@ -54,7 +54,7 @@ Multi Paged Form - Step by Step
 
 
 ### [Project 5: Bookmark Landing Page](https://bookmark-landing-page-lime.vercel.app/)
-![Screenshot](landing-page.webp)  
+![Screenshot](Screenshot%202025-06-28%20at%2010-55-34%20Frontend%20Mentor%20Bookmark%20landing%20page.png)  
 Doesn't really do anything, just bookmark this
 
 - **Technologies**: HTML5, Sass & Bootstrap and Vercel
