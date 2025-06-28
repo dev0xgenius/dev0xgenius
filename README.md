@@ -17,7 +17,7 @@ I am passionate about building scalable applications, exploring the latest in te
 ## 🌟 Featured Projects
 
 ### [Project 1: Interactive Comments Section](https://interactive-comments-section-opal.vercel.app/)
-![Screenshot](comment-section.webp)  
+![Screenshot](Screenshot%202025-06-28%20at%2010-51-11%20Interactive%20Comment%20Section.png)  
 A sleek and modern comment section
 
 - **Technologies**: React, Tailwind CSS, Vercel, Nodejs, Express
