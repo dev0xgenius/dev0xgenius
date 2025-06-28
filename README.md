@@ -17,7 +17,7 @@ I am passionate about building scalable applications, exploring the latest in te
 ## 🌟 Featured Projects
 
 ### [Project 1: Interactive Comments Section](https://interactive-comments-section-opal.vercel.app/)
-![Screenshot](download.png)
+![Screenshot](comment-section.webp)
 A sleek and modern comment section
 
 - **Technologies**: React, Tailwind CSS, Vercel, Nodejs, Express
@@ -43,11 +43,12 @@ Todo: Update this description
 
 ---
 
-### [Project 4: Multi Step Form](https://multi.vercel.app)
-![Screenshot](form.png)
+### [Project 4: Multi Step Form](https://multi-step-form-theta-lovat.vercel.app/)
+![Screenshot](multi-step-form.webp)
 Multi Paged Form - Step by Step 
 
 - **Technologies**: ReactRouterv7, MUI for UI Components, Zod for Parsing Form Data, react-hook-form for handling form
+- **Features**: Form Validation, Responsive Web Design
 
 ## 📊 GitHub Stats
 
