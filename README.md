@@ -17,7 +17,7 @@ I am passionate about building scalable applications, exploring the latest in te
 ## 🌟 Featured Projects
 
 ### [Project 1: Interactive Comments Section](https://interactive-comments-section-opal.vercel.app/)
-![Screenshot](comment-section.webp)
+![Screenshot](comment-section.webp)  
 A sleek and modern comment section
 
 - **Technologies**: React, Tailwind CSS, Vercel, Nodejs, Express
@@ -35,7 +35,7 @@ Shopping Product Cart, basically? Just check it out
 ---
 
 ### [Project 3: Basic Todo App with Drag and Drop Feature](https://dev0xgenius-todo-app.vercel.app/)
-![Screenshot](todoapp.png)
+![Screenshot](todoapp.png)  
 Todo: Update this description
 
 - **Technologies**: React, Sass, DND(drap & drop kit)
@@ -44,7 +44,7 @@ Todo: Update this description
 ---
 
 ### [Project 4: Multi Step Form](https://multi-step-form-theta-lovat.vercel.app/)
-![Screenshot](multi-step-form.webp)
+![Screenshot](multi-step-form.webp)  
 Multi Paged Form - Step by Step 
 
 - **Technologies**: ReactRouterv7, MUI for UI Components, Zod for Parsing Form Data, react-hook-form for handling form
