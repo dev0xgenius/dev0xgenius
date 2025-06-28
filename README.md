@@ -44,7 +44,7 @@ Todo: Update this description
 ---
 
 ### [Project 4: Multi Step Form](https://multi-step-form-theta-lovat.vercel.app/)
-![Screenshot](multi-step-form.webp)  
+![Screenshot](Screenshot%202025-06-28%20at%2010-55-55%20.png)  
 Multi Paged Form - Step by Step 
 
 - **Technologies**: ReactRouterv7, MUI for UI Components, Zod for Parsing Form Data, react-hook-form for handling form
