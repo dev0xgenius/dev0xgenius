@@ -53,12 +53,12 @@ Multi Paged Form - Step by Step
 ---
 
 
-### [Project 5: Bookmark Landing Page](https://)
-![Screenshot](multi-step-form.webp)  
-Multi Paged Form - Step by Step 
+### [Project 5: Bookmark Landing Page]([https://](https://bookmark-landing-page-lime.vercel.app/))
+![Screenshot](landing-page.webp)  
+Doesn't really do anything, just bookmark this
 
-- **Technologies**: ReactRouterv7, MUI for UI Components, Zod for Parsing Form Data, react-hook-form for handling form
-- **Features**: Form Validation, Responsive Web Design
+- **Technologies**: HTML5, Sass & Bootstrap and Vercel
+- **Features**: Responsive Web Design
 
 ## 📊 GitHub Stats
 
