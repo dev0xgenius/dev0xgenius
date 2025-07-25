@@ -52,14 +52,6 @@ Multi Paged Form - Step by Step
 
 ---
 
-
-### [Project 5: Bookmark Landing Page](https://bookmark-landing-page-lime.vercel.app/)
-![Screenshot](Screenshot%202025-06-28%20at%2010-55-34%20Frontend%20Mentor%20Bookmark%20landing%20page.png)  
-Doesn't really do anything, just bookmark this
-
-- **Technologies**: HTML5, Sass & Bootstrap and Vercel
-- **Features**: Responsive Web Design
-
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev0xgenius&show_icons=true&theme=radical)
