@@ -66,11 +66,11 @@ Modern shopping experience with dynamic product interactions
 - **Tech Stack**: React, React-Bootstrap
 - **Highlights**: Interactive UI, responsive design, smooth cart management
 
-### [Todo App with Drag & Drop](https://dev0xgenius-todo-app.vercel.app/)
-Intuitive todo manager with drag-and-drop functionality
+### [Audiophile E-Commerce](https://audiophile-ecommerce.vercel.app/)
+Premium e-commerce platform for audio equipment with full shopping experience
 
-- **Tech Stack**: React, Sass, DND Kit
-- **Highlights**: Smooth animations, todo management, task organization
+- **Tech Stack**: Next.js 16, React 19, TypeScript, Tailwind CSS
+- **Highlights**: Dynamic product pages, cart management, responsive design, audio gear catalog
 
 ### [Multi-Step Form](https://multi-step-form-theta-lovat.vercel.app/)
 Progressive form with validation and multi-page flow
